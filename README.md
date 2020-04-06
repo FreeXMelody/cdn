@@ -1,2 +1,2 @@
 # cdn
-fCdn
+jsDeliverCdn.
